@@ -1,1 +1,3 @@
-# Spartan6---DSP48A1
+My work centered on implementing the DSP48A1 block functionality using Verilog HDL, followed by thorough simulation and functional verification with QuestaSim. The design was then synthesized, implemented, and deployed using Xilinx Vivado, achieving timing closure and ensuring full hardware compatibility.
+This project demonstrates my expertise in FPGA-based digital signal processing and my ability to guide a complex hardware design from initial concept through simulation, verification, and final implementation. Successfully realizing this design showcases my capability in high-performance FPGA development and provides a solid foundation for future applications in real-time and compute-intensive DSP systems.
+Seeing the journey from architectural planning to a robust, deployable hardware solution was both technically rewarding and professionally fulfilling.
